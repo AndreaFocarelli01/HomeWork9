@@ -1,0 +1,16 @@
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\bin\Debug\net8.0-windows\HomeWork9.exe
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\bin\Debug\net8.0-windows\HomeWork9.deps.json
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\bin\Debug\net8.0-windows\HomeWork9.runtimeconfig.json
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\bin\Debug\net8.0-windows\HomeWork9.dll
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\bin\Debug\net8.0-windows\HomeWork9.pdb
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\HomeWork9.Form1.resources
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\HomeWork9.csproj.GenerateResource.cache
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\HomeWork9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\HomeWork9.AssemblyInfoInputs.cache
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\HomeWork9.AssemblyInfo.cs
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\HomeWork9.csproj.CoreCompileInputs.cache
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\HomeWork9.dll
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\refint\HomeWork9.dll
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\HomeWork9.pdb
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\HomeWork9.genruntimeconfig.cache
+C:\Users\Utente\OneDrive\Desktop\Statistics\HomeWork9\HomeWork9\obj\Debug\net8.0-windows\ref\HomeWork9.dll
